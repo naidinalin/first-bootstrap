@@ -1,0 +1,21 @@
+/* Donut */
+
+body {
+	position: relative;
+}
+
+#home, #about, #projects, #contact {
+
+  padding-top:70px;
+  padding-bottom:70px
+}
+
+ .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+.page-footer {
+	background: black;
+	text-decoration: white;
+}
